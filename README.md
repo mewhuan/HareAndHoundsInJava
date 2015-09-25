@@ -18,6 +18,6 @@ Play as hare at the hardest level.
 Play as hounds at the medium level.
 </p>
 ### Author
-<a href="github.com/mewhuan">Dong Li</a>
+<a href="https://github.com/mewhuan">Dong Li</a>
 </body>
 </html>
