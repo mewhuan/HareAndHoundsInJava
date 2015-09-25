@@ -6,12 +6,16 @@ AI provided with three difficulty levels.
 <html>
 <body>
 <p>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/hardAndHounds1.gif" width="400" height="300">
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/hardAndHounds1.gif" width="400" height="300"></br>
 Play as hounds at the hardest level.
 </p>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/hardAndHounds2.gif" width="400" height="300">
-Play as hare at the hardest level. </br>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/hardAndHounds3.gif" width="400" height="300">
-Play as hounds at the medium level. </br>
+<p>
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/hardAndHounds2.gif" width="400" height="300"></br>
+Play as hare at the hardest level. 
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/hardAndHounds3.gif" width="400" height="300"></br>
+Play as hounds at the medium level.
+</p>
 </body>
 </html>
